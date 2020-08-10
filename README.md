@@ -1,4 +1,4 @@
 # ArGaL-Code
-I code for fun! Saludos!
+I code for fun! Saludos!!!
 
-Este código en python da mensajes de alerta de acuerdo a cómo construyes tus contraseñas.
+Este módulo en python te permite ingresar una contraseña para después avisarte si cumple con las reglas baśicas para crear passwords.
